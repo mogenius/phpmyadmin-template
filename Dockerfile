@@ -1,3 +1,3 @@
-FROM phpmyadmin:5.1.3-apache
+FROM bitnami/phpmyadmin:5.1.3
 
 USER 1000
